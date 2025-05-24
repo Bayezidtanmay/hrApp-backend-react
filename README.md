@@ -1,10 +1,10 @@
-# HR Application
+# HR Application backend files
 
-This repository contains the frontend files of the HR application. Previously, I had another repository where the files were organized step-by-step from Step 1 to Step 6. However, due to some issues with that repository, I was forced to delete it, and now I have pushed all the files together into the current repository.
+This repository contains the backend files of the HR application (db.json, employees.js and useAxios.js)
 
 - [hrApp live project](https://hr-app-frontend-react.vercel.app/)
 - [hrApp backend server](http://localhost:3001/employees)
-- [GitHub repo of backend files](https://github.com/Bayezidtanmay/hrApp-backend-react)
+- [GitHub repo of frontend files](https://github.com/Bayezidtanmay/hrApp-frontend-react)
 
 # Project description and personal reflection about this project
 
